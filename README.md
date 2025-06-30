@@ -1,24 +1,78 @@
-# Synapse Technical Assessment – Physician Note Extractor
+# 🩺 Physician Note Extraction – Synapse Technical Assessment
 
-This project processes physician note text files and sends them to a FastAPI endpoint for medical device order extraction. It includes a C# console application and a corresponding Python API.
+This project is a full-stack implementation that extracts structured information from unstructured physician notes using a hybrid approach:
 
----
-
-## 🧰 Tools & IDEs Used
-
-- **IDE:** Visual Studio 2022 for C# code and VS code for Python code and FastAPI
-- **.NET SDK:** .NET 7.0
-- **Python API:** FastAPI 0.110+
-- **Test Framework:** xUnit, Moq
+- A **FastAPI backend** (Python) that uses a Named Entity Recognition (NER) model and regular expressions to parse key data.
+- A **C# console application** that reads `.txt` files, sends them to the backend for processing, and captures the results in a JSON file.
 
 ---
 
-## 🤖 AI Development Tools Used
+## 🧠 Features
 
-- **Microsoft Copilot (AI assistant)** was used to:
-  - Generate Moq
-  - Create this `README.md` for clarity and completeness
+- ✅ Uses a custom-trained or preloaded NER model for medical device order extraction.
+- ✅ Applies pattern-matching via regular expressions for additional fields.
+- ✅ Supports multithreaded file processing in C#.
+- ✅ Automatically logs progress and responses.
+- ✅ Easily configurable via `appsettings.json`.
+
 ---
+
+## 🛠 Tools Used
+
+| Tool/Framework      | Purpose                            |
+|---------------------|------------------------------------|
+| Visual Studio 2022  | C# development                     |
+| VS code for Python and FastAPI 
+|FastAPI (Python)    | Backend API for NER & regex        |
+| .NET 7.0            | Console app + HttpClient           |
+| xUnit & Moq         | Unit testing in C#                 |
+| GitHub Copilot Chat | AI-assisted refactoring & testing  |
+
+> AI tools were used to create readme file and help with Moq for Xunit
+
+---
+
+## 📂 Configuration
+
+In `appsettings.json`, define your endpoint:
+
+```json
+{
+  "ApiSettings": {
+    "EndpointUrl": "http://localhost:8000/extract"
+  }
+}
+You may also use a mock or test endpoint like https://alert-api.com/DrExtract to simulate failures. (Note: this fake endpoint will throw errors because it’s not real.)
+🚀 Running the Project
+1. Start the FastAPI Server
+  Install FastAPI and Uvicorn:
+  pip install fastapi uvicorn
+  tart the backend:
+  uvicorn app:app --reload
+  Replace app:app with your module path if it's different.
+2. Run the C# Processor
+  - Drop .txt files into a /Notes/ folder at the project root.
+  - From Visual Studio: set the C# project as startup and run with F5.
+  - Or via terminal:
+  dotnet build
+  dotnet run --project ExtractPhysicianNote
+
+  dotnet build
+  dotnet run --project ExtractPhysicianNote
+  Results will be posted to the API and optionally saved to JSON.
+
+✅ Unit Testing
+  Navigate to the test project and run:
+  dotnet test
+
+
+T ests mock HTTP responses and assert payload/output behavior using xUnit and Moq.
+
+🧹 Recommendations
+
+
+
+
 
 ## 📝 Assumptions, Limitations, and Future Improvements
 
@@ -39,18 +93,9 @@ This project processes physician note text files and sends them to a FastAPI end
 - Add JSON schema validation for response structure
 - Handle parallel file processing with throttling
 - Integrate Serilog for structured logging
-- Write processed results to a local results archive (e.g., `results.json`)
+- Write processed results to a local results archive or database
+- Add logic to clean/reset the output JSON file once all files are processed.
+- API result validation against a schema
+- Real-time file monitoring for hot processing
 
----
-
-## 🚀 How to Run This Project
-
-### 1. Start the Python FastAPI Server
-
-Make sure you have Python and Uvicorn installed:
-
-```bash or vs code terminal
-
-pip install fastapi uvicorn
-run uvicorn app:app --reload 
 
