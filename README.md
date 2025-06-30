@@ -42,13 +42,20 @@ In `appsettings.json`, define your endpoint:
     "EndpointUrl": "http://localhost:8000/extract"
   }
 }
+
+```
 You may also use a mock or test endpoint like https://alert-api.com/DrExtract to simulate failures. (Note: this fake endpoint will throw errors because it’s not real.)
+
 🚀 Running the Project
 1. Start the FastAPI Server
   Install FastAPI and Uvicorn:
-  pip install fastapi uvicorn
+  
+```pip install fastapi uvicorn
+```
   tart the backend:
-  uvicorn app:app --reload
+ 
+``` uvicorn app:app --reload
+```
   Replace app:app with your module path if it's different.
 2. Run the C# Processor
   - Drop .txt files into a /Notes/ folder at the project root.
