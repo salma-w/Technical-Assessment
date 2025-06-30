@@ -1,0 +1,12 @@
+C:\Users\Salma\Downloads\Technical Assessment\Technical_Assessment\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Salma\Downloads\Technical Assessment\Technical_Assessment\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Salma\Downloads\Technical Assessment\Technical_Assessment\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Salma\Downloads\Technical Assessment\Technical_Assessment\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salma\Downloads\Technical Assessment\Technical_Assessment\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Salma\Downloads\Technical Assessment\Technical_Assessment\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Salma\Downloads\Technical Assessment\Technical_Assessment\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Salma\Downloads\Technical Assessment\Technical_Assessment\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Salma\Downloads\Technical Assessment\Technical_Assessment\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Salma\Downloads\Technical Assessment\Technical_Assessment\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Salma\Downloads\Technical Assessment\Technical_Assessment\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\Salma\Downloads\Technical Assessment\Technical_Assessment\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache

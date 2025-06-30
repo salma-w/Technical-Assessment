@@ -1,0 +1,3 @@
+{
+  "data": "Patient Name: Marvin James\nDOB: 01/15/1948\nDiagnosis: Bilateral lower extremity weakness secondary to spinal stenosis\nRecommendation: Manual wheelchair with adjustable leg rests and anti-tip bars for full-time mobility support.\nUsage: Full-time, inside and outside home\nOrdering Physician: Dr. House"
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ExtractPhysicanNote\\ExtractPhysicanNote.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ExtractPhysicanNoteTest\\ExtractPhysicanNoteTest.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

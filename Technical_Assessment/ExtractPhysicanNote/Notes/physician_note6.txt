@@ -1,0 +1,3 @@
+{
+  "data": "Patient Name: Mia Chen\nDOB: 06/30/2009\nDiagnosis: Pediatric asthma with recurrent exacerbations\nRecommendation: Nebulizer therapy with albuterol sulfate 0.083% via face mask, PRN up to 4 times daily.\nUsage: During wheezing episodes and exercise-induced bronchospasm\nOrdering Physician: Dr. Baez"
+}

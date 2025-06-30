@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62675999-27FC-43FE-9045-0EC45CCC500C}|ExtractPhysicanNote\\ExtractPhysicanNote.csproj|c:\\users\\salma\\downloads\\technical assessment\\technical_assessment\\extractphysicannote\\extractphysicannote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62675999-27FC-43FE-9045-0EC45CCC500C}|ExtractPhysicanNote\\ExtractPhysicanNote.csproj|solutionrelative:extractphysicannote\\extractphysicannote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62675999-27FC-43FE-9045-0EC45CCC500C}|ExtractPhysicanNote\\ExtractPhysicanNote.csproj|c:\\users\\salma\\downloads\\technical assessment\\technical_assessment\\extractphysicannote\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62675999-27FC-43FE-9045-0EC45CCC500C}|ExtractPhysicanNote\\ExtractPhysicanNote.csproj|solutionrelative:extractphysicannote\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629E7901-9395-4D48-884F-D7A5CAD684A0}|ExtractPhysicanNoteTest\\ExtractPhysicanNoteTest.csproj|c:\\users\\salma\\downloads\\technical assessment\\technical_assessment\\extractphysicannotetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{629E7901-9395-4D48-884F-D7A5CAD684A0}|ExtractPhysicanNoteTest\\ExtractPhysicanNoteTest.csproj|solutionrelative:extractphysicannotetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629E7901-9395-4D48-884F-D7A5CAD684A0}|ExtractPhysicanNoteTest\\ExtractPhysicanNoteTest.csproj|c:\\users\\salma\\downloads\\technical assessment\\technical_assessment\\extractphysicannotetest\\extractphysiciannotetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629E7901-9395-4D48-884F-D7A5CAD684A0}|ExtractPhysicanNoteTest\\ExtractPhysicanNoteTest.csproj|solutionrelative:extractphysicannotetest\\extractphysiciannotetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629E7901-9395-4D48-884F-D7A5CAD684A0}|ExtractPhysicanNoteTest\\ExtractPhysicanNoteTest.csproj|c:\\users\\salma\\downloads\\technical assessment\\technical_assessment\\extractphysicannotetest\\extractphysicannotetest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{629E7901-9395-4D48-884F-D7A5CAD684A0}|ExtractPhysicanNoteTest\\ExtractPhysicanNoteTest.csproj|solutionrelative:extractphysicannotetest\\extractphysicannotetest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964CCE10-7998-40C1-B584-E3954F12C920}|Common\\Common.csproj|c:\\users\\salma\\downloads\\technical assessment\\technical_assessment\\common\\apputilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964CCE10-7998-40C1-B584-E3954F12C920}|Common\\Common.csproj|solutionrelative:common\\apputilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964CCE10-7998-40C1-B584-E3954F12C920}|Common\\Common.csproj|c:\\users\\salma\\downloads\\technical assessment\\technical_assessment\\common\\apicall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964CCE10-7998-40C1-B584-E3954F12C920}|Common\\Common.csproj|solutionrelative:common\\apicall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62675999-27FC-43FE-9045-0EC45CCC500C}|ExtractPhysicanNote\\ExtractPhysicanNote.csproj|c:\\users\\salma\\downloads\\technical assessment\\technical_assessment\\extractphysicannote\\extractphysicannote.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62675999-27FC-43FE-9045-0EC45CCC500C}|ExtractPhysicanNote\\ExtractPhysicanNote.csproj|solutionrelative:extractphysicannote\\extractphysicannote.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62675999-27FC-43FE-9045-0EC45CCC500C}|ExtractPhysicanNote\\ExtractPhysicanNote.csproj|c:\\users\\salma\\downloads\\technical assessment\\technical_assessment\\extractphysicannote\\extractphysicannote.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{62675999-27FC-43FE-9045-0EC45CCC500C}|ExtractPhysicanNote\\ExtractPhysicanNote.csproj|solutionrelative:extractphysicannote\\extractphysicannote.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62675999-27FC-43FE-9045-0EC45CCC500C}|ExtractPhysicanNote\\ExtractPhysicanNote.csproj|c:\\users\\salma\\downloads\\technical assessment\\technical_assessment\\extractphysicannote\\notes\\physician_note3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{62675999-27FC-43FE-9045-0EC45CCC500C}|ExtractPhysicanNote\\ExtractPhysicanNote.csproj|solutionrelative:extractphysicannote\\notes\\physician_note3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62675999-27FC-43FE-9045-0EC45CCC500C}|ExtractPhysicanNote\\ExtractPhysicanNote.csproj|c:\\users\\salma\\downloads\\technical assessment\\technical_assessment\\extractphysicannote\\notes\\physician_note2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{62675999-27FC-43FE-9045-0EC45CCC500C}|ExtractPhysicanNote\\ExtractPhysicanNote.csproj|solutionrelative:extractphysicannote\\notes\\physician_note2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62675999-27FC-43FE-9045-0EC45CCC500C}|ExtractPhysicanNote\\ExtractPhysicanNote.csproj|c:\\users\\salma\\downloads\\technical assessment\\technical_assessment\\extractphysicannote\\notes\\physician_note1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{62675999-27FC-43FE-9045-0EC45CCC500C}|ExtractPhysicanNote\\ExtractPhysicanNote.csproj|solutionrelative:extractphysicannote\\notes\\physician_note1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNoteTest\\appsettings.json",
+              "RelativeDocumentMoniker": "ExtractPhysicanNoteTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNoteTest\\appsettings.json",
+              "RelativeToolTip": "ExtractPhysicanNoteTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T01:59:43.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExtractPhysicianNoteTest.cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNoteTest\\ExtractPhysicianNoteTest.cs",
+              "RelativeDocumentMoniker": "ExtractPhysicanNoteTest\\ExtractPhysicianNoteTest.cs",
+              "ToolTip": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNoteTest\\ExtractPhysicianNoteTest.cs",
+              "RelativeToolTip": "ExtractPhysicanNoteTest\\ExtractPhysicianNoteTest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T01:35:05.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\Common\\AppUtilities.cs",
+              "RelativeDocumentMoniker": "Common\\AppUtilities.cs",
+              "ToolTip": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\Common\\AppUtilities.cs",
+              "RelativeToolTip": "Common\\AppUtilities.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T01:26:03.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "APICall.cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\Common\\APICall.cs",
+              "RelativeDocumentMoniker": "Common\\APICall.cs",
+              "ToolTip": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\Common\\APICall.cs",
+              "RelativeToolTip": "Common\\APICall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T01:15:41.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNote\\appsettings.json",
+              "RelativeDocumentMoniker": "ExtractPhysicanNote\\appsettings.json",
+              "ToolTip": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNote\\appsettings.json",
+              "RelativeToolTip": "ExtractPhysicanNote\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T00:43:06.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "physician_note1.txt",
+              "DocumentMoniker": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNote\\Notes\\physician_note1.txt",
+              "RelativeDocumentMoniker": "ExtractPhysicanNote\\Notes\\physician_note1.txt",
+              "ToolTip": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNote\\Notes\\physician_note1.txt",
+              "RelativeToolTip": "ExtractPhysicanNote\\Notes\\physician_note1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-29T23:52:22.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExtractPhysicanNote.cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNote\\ExtractPhysicanNote.cs",
+              "RelativeDocumentMoniker": "ExtractPhysicanNote\\ExtractPhysicanNote.cs",
+              "ToolTip": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNote\\ExtractPhysicanNote.cs*",
+              "RelativeToolTip": "ExtractPhysicanNote\\ExtractPhysicanNote.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwE0AAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T21:11:40.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExtractPhysicanNoteTest",
+              "DocumentMoniker": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNoteTest\\ExtractPhysicanNoteTest.csproj",
+              "RelativeDocumentMoniker": "ExtractPhysicanNoteTest\\ExtractPhysicanNoteTest.csproj",
+              "ToolTip": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNoteTest\\ExtractPhysicanNoteTest.csproj",
+              "RelativeToolTip": "ExtractPhysicanNoteTest\\ExtractPhysicanNoteTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T02:29:05.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExtractPhysicanNote",
+              "DocumentMoniker": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNote\\ExtractPhysicanNote.csproj",
+              "RelativeDocumentMoniker": "ExtractPhysicanNote\\ExtractPhysicanNote.csproj",
+              "ToolTip": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNote\\ExtractPhysicanNote.csproj",
+              "RelativeToolTip": "ExtractPhysicanNote\\ExtractPhysicanNote.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T01:32:49.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExtractPhysicanNote",
+              "DocumentMoniker": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNote\\ExtractPhysicanNote.csproj",
+              "RelativeDocumentMoniker": "ExtractPhysicanNote\\ExtractPhysicanNote.csproj",
+              "ToolTip": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNote\\ExtractPhysicanNote.csproj",
+              "RelativeToolTip": "ExtractPhysicanNote\\ExtractPhysicanNote.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T01:37:14.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "physician_note2.txt",
+              "DocumentMoniker": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNote\\Notes\\physician_note2.txt",
+              "RelativeDocumentMoniker": "ExtractPhysicanNote\\Notes\\physician_note2.txt",
+              "ToolTip": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNote\\Notes\\physician_note2.txt",
+              "RelativeToolTip": "ExtractPhysicanNote\\Notes\\physician_note2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-29T23:52:26.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "physician_note3.txt",
+              "DocumentMoniker": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNote\\Notes\\physician_note3.txt",
+              "RelativeDocumentMoniker": "ExtractPhysicanNote\\Notes\\physician_note3.txt",
+              "ToolTip": "C:\\Users\\Salma\\Downloads\\Technical Assessment\\Technical_Assessment\\ExtractPhysicanNote\\Notes\\physician_note3.txt",
+              "RelativeToolTip": "ExtractPhysicanNote\\Notes\\physician_note3.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-29T23:52:33.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
