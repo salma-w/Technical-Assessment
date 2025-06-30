@@ -7,7 +7,7 @@ app = FastAPI()
 
 with open("config.json") as f:
     config = json.load(f)
-OUTPUT_JSON = config["output_path"]
+output_json = config["output_path"]
 
 class NoteInput(BaseModel):
     text: str
@@ -17,7 +17,7 @@ def extract_fields(payload: NoteInput):
 
     json = extract_payload(payload.text)  
     result = extract_dme_fields(json)
-    save_results(result, OUTPUT_JSON)
-    print(f"✅ Extraction complete! JSON saved to {OUTPUT_JSON}")
+    save_results(result, output_json)
+    print(f"✅ Extraction complete! JSON saved to {output_json}")
     return {"result": result}
 

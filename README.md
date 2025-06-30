@@ -6,7 +6,7 @@ This project processes physician note text files and sends them to a FastAPI end
 
 ## 🧰 Tools & IDEs Used
 
-- **IDE:** Visual Studio 2022
+- **IDE:** Visual Studio 2022 for C# code and VS code for Python code and FastAPI
 - **.NET SDK:** .NET 7.0
 - **Python API:** FastAPI 0.110+
 - **Test Framework:** xUnit, Moq
@@ -49,5 +49,8 @@ This project processes physician note text files and sends them to a FastAPI end
 
 Make sure you have Python and Uvicorn installed:
 
-```bash
+```bash or vs code terminal
+
 pip install fastapi uvicorn
+run uvicorn app:app --reload 
+
